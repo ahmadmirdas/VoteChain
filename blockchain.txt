@@ -1,0 +1,9 @@
+[{"constant":true,"inputs":[{"name":"","type":"uint256"},{"name":"","type":"uint256"}],"name":"suara
+","outputs":[{"name":"totalSuara","type":"uint256"}],"payable":false,"stateMutability":"view","type"
+:"function"},{"constant":true,"inputs":[],"name":"Total","outputs":[{"name":"","type":"uint256"}],"p
+ayable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"tpsId
+","type":"uint256"},{"name":"kandidatId","type":"uint256"}],"name":"vote","outputs":[],"payable":fal
+se,"stateMutability":"nonpayable","type":"function"}]
+
+
+ 0x25D031B8C27cfe5f8f656333F03e571e41742593

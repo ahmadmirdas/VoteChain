@@ -1,0 +1,16 @@
+0x6cC2bcf4811Ab442a3bb0D7181Abe892326d9859
+
+[ { constant: false,
+       inputs: [Array],
+       name: 'vote',
+       outputs: [],
+       payable: false,
+       stateMutability: 'nonpayable',
+       type: 'function' },
+     { constant: true,
+       inputs: [Array],
+       name: 'dataTPS',
+       outputs: [Array],
+       payable: false,
+       stateMutability: 'view',
+       type: 'function' } ]
